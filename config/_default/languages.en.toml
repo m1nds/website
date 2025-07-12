@@ -1,0 +1,24 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Lyes' Website"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  logo = "img/logo.png"
+  description = "Lyes BOURENNANI"
+
+[params.author]
+   name = "Lyes BOURENNANI"
+   image = "img/blowfish_logo.png"
+   imageQuality = 96
+   headline = "m1nds"
+   bio = "4th Master year at EPITA, majoring in Systems, Networks and Security. Invested and driven by will, I appreciate reverse-engineering and binary exploitation (pwn). I pursue these subjects in order to deepen my knowledge in this low-level world. I am also part of the EPITA_SRS CTF team where we compete against other teams."
+   links = [
+     { github = "https://github.com/m1nds" },
+     { linkedin = "https://www.linkedin.com/in/lyes-bourennani-255966231/" }
+   ]

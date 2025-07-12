@@ -1,0 +1,24 @@
+disabled = false
+languageCode = "fr"
+languageName = "French"
+weight = 1
+title = "Site de Lyes"
+
+[params]
+  displayName = "FR"
+  isoCode = "fr"
+  rtl = false
+  dateFormat = "2 January 2006"
+  logo = "img/logo.png"
+  description = "Lyes BOURENNANI"
+
+[params.author]
+   name = "Lyes BOURENNANI"
+   image = "img/blowfish_logo.png"
+   imageQuality = 96
+   headline = "m1nds"
+   bio = "Etudiant à l'EPITA en Systèmes, Réseau et Sécurités. Motivé et investi en rétro-ingénierie et exploitation binaire. Je travaille au quotidien pour en apprendre plus sur ces thématiques. Membre actif de l'équipe CTF EPITA_SRS. Je fais de temps en temps de l'infrastructure."
+   links = [
+     { github = "https://github.com/m1nds" },
+     { linkedin = "https://www.linkedin.com/in/lyes-bourennani-255966231/" }
+   ]

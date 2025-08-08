@@ -2,7 +2,7 @@ disabled = false
 languageCode = "fr"
 languageName = "French"
 weight = 1
-title = "Site de Lyes"
+title = "m1nds"
 
 [params]
   displayName = "FR"

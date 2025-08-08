@@ -17,20 +17,20 @@
 
 [[main]]
   name = "Projects"
-  pageRef = "posts"
+  pageRef = "projects"
   weight = 10
 
-[[subnavigation]]
+[[main]]
   name = "GitHub"
   pre = "github"
   pageRef = "categories/awesome"
-  weight = 20
+  weight = 15
 
-[[subnavigation]]
+[[main]]
   name = "LinkedIn"
   pre = "linkedin"
   pageRef = "categories/awesome"
-  weight = 20
+  weight = 15
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before

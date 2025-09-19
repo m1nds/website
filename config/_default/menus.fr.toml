@@ -23,13 +23,13 @@
 [[main]]
   name = "GitHub"
   pre = "github"
-  pageRef = "categories/awesome"
+  url = "https://github.com/m1nds"
   weight = 15
 
 [[main]]
   name = "LinkedIn"
   pre = "linkedin"
-  pageRef = "categories/awesome"
+  url = "https://www.linkedin.com/in/lyes-bourennani/"
   weight = 15
 
 # -- Footer Menu --

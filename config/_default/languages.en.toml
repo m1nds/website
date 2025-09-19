@@ -14,7 +14,7 @@ title = "m1nds"
 
 [params.author]
    name = "Lyes BOURENNANI"
-   image = "img/blowfish_logo.png"
+   image = "img/profile.png"
    imageQuality = 96
    headline = "m1nds"
    bio = "4th Master year at EPITA, majoring in Systems, Networks and Security. Invested and driven by will, I appreciate reverse-engineering and binary exploitation (pwn). I pursue these subjects in order to deepen my knowledge in this low-level world. I am also part of the EPITA_SRS CTF team where we compete against other teams."

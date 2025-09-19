@@ -1,6 +1,6 @@
 ---
 title: "AMSI CTF 2025 - Reverse Engineering - Cavormice"
-description: "N0PSCTF 2025"
+description: "AMSI CTF 2025"
 date: 2025-08-08
 draft: false
 slug: "multi-author"

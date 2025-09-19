@@ -1,6 +1,6 @@
 ---
-title: "N0PSCTF 2025 - Reverse Engineering - pwntopiashl"
-description: "N0PSCTF 2025"
+title: "AMSI CTF 2025 - Reverse Engineering - Cavormice"
+description: "AMSI CTF 2025"
 date: 2025-08-08
 draft: false
 author: "Lyes BOURENNANI"
